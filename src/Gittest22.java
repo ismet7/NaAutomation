@@ -4,6 +4,7 @@ public class Gittest22 {
        System.out.println("ahmet erkul anadolu");
         System.out.println("ismet");
         System.out.println("ismet333");
+        System.out.println("ismet3222233");
 
 
     }
